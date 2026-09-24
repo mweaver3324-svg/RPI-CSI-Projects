@@ -4,7 +4,7 @@ Created on Mon Sep 14 17:24:13 2026
 
 @author: Michael
 """
-
+#Calls three functions of the same name to convert a given temperature in celcius to fahrenheit
 def conver2fahren():
     celcius = 0
     fahrenheit = celcius * 1.8 + 32
