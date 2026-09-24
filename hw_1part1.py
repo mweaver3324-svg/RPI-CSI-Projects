@@ -4,6 +4,7 @@ Created on Fri Sep 11 16:59:33 2026
 
 @author: Michael
 """
+#Madlibs game
 name = input("Enter your name:")
 adjective1 = input("Enter an adjective:")
 adjective2 = input("Enter another adjective:")
