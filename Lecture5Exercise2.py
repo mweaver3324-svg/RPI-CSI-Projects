@@ -4,7 +4,7 @@ Created on Mon Sep 14 17:58:25 2026
 
 @author: Michael
 """
-
+#Creates asterisk border around the statement. Border size does not adjust to argument 'statement' length.
 def frame_string(statement):
     
     border = '*' * 25
