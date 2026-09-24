@@ -5,7 +5,7 @@ Created on Wed Sep 16 11:02:48 2026
 @author: Michael
 """
 
-#
+#Calculates pace and speed of a runner based on values given by the user
 minutes = int(input("Minutes ==> "))
 seconds = int(input("Seconds ==> "))
 miles = float(input("Miles ==> "))
